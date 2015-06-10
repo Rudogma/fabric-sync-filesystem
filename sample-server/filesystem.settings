@@ -1,0 +1,8 @@
+
+
+[root]
+/
+
+[someuser, mode=0700]
+/home/someuser
+/home/someuser/hello777.txt mode=0777
